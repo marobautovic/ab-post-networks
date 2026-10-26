@@ -28,3 +28,8 @@ Tema, fotografije, potvrđene činjenice, kategorija (projekt, lager, savjet, sa
 
 ## Sigurnosna granica
 Nikad ne tumači općenito 'kreni', 'podesi' ili 'napravi sve' kao odobrenje javne objave. API tokene i lozinke čuvati isključivo u sigurnim postavkama servisa, nikad u GitHub datotekama.
+
+## Razlikovanje od konkurencije
+- Ne koristiti slogan konkurencije „Jer detalji čine razliku” niti bliske varijante kao što su „Detalji koji čine razliku” ili „Jer pravi odabir materijala čini razliku”.
+- Izbjegavati generičke završne slogane o detaljima i razlici; umjesto toga isticati konkretne činjenice o savjetovanju, isporuci, materijalima i iskustvu.
+- Novi slogan nije službeno odobren dok ga korisnik izričito ne potvrdi.
