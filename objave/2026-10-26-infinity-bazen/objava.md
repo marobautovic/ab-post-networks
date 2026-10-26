@@ -1,40 +1,39 @@
 # Infinity bazen — spoj bazena i mora
 
-Status: NA_ODOBRENJU (NIJE OBJAVLJENO)
+Status: NA_ODOBRENJU — NIJE OBJAVLJENO
 
 ## Potvrđeno
-Prva fotografija prikazuje stvarni izvedeni objekt. AB Keramika sudjelovala je u planiranju, savjetovanju, isporuci keramike i bazenskih materijala te izvedbi u suradnji s partnerima.
+Prva fotografija prikazuje stvarni objekt. Uloga AB Keramike: stručno savjetovanje i isporuka keramike i bazenskih materijala. Bez pripisivanja planiranja ili izvođenja radova.
 
 ## Instagram
 Kada se bazen i more spoje u jednu cjelinu.
 
-Od prvog planiranja i odabira keramike do isporuke materijala i završne izvedbe u suradnji s našim partnerima.
+Pažljiv odabir keramike, čiste linije i preljevni rub stvaraju sklad između bazena, arhitekture i Jadranskog mora.
 
-Svaki detalj ovog preljevnog bazena pažljivo je osmišljen kako bi se postigao sklad između arhitekture, vode i prirodnog okruženja.
+Za ovaj projekt AB Keramika osigurala je stručno savjetovanje te isporuku keramike i bazenskih materijala.
 
-Rezultat je prostor u kojem se granica između bazena i Jadranskog mora gotovo gubi.
+Detalji koji čine razliku.
 
 AB KERAMIKA | Dubrovnik
-Od ideje do realizacije.
+Keramika i materijali za bazene.
 www.ab-keramika.hr
 
 #ABKeramika #Dubrovnik #InfinityPool #PoolDesign #PoolTiles #Bazeni #Keramika
 
 ## Facebook
-Projekt u kojem se bazen i more stapaju u jedinstven pogled.
+Bazen s pogledom koji govori sam za sebe.
 
-U realizaciji ovog preljevnog bazena sudjelovali smo kroz planiranje, stručno savjetovanje, odabir i isporuku keramike te bazenskih materijala, uz izvedbu u suradnji s našim partnerima.
+Spoj pažljivo odabrane keramike, preljevnog ruba i prirodnog okruženja stvara dojam neprekinute vodene površine koja se nastavlja prema moru.
 
-Posebna pažnja posvećena je detaljima, završnoj obradi i usklađenosti bazena s okolnim prostorom.
+AB Keramika sudjelovala je u ovom projektu kroz stručno savjetovanje, odabir i isporuku keramike te bazenskih materijala.
 
-Ovakvi projekti najbolje pokazuju koliko kvalitetan odabir materijala i dobra suradnja svih sudionika doprinose konačnom rezultatu.
+Kvalitetni materijali i pažnja posvećena detaljima važan su dio svakog uspješnog bazenskog projekta.
 
-AB KERAMIKA – Dubrovnik
-Keramika, bazenski sustavi i stručna podrška.
+AB KERAMIKA | Dubrovnik
 www.ab-keramika.hr
 
 ## Vizuali
-Prva fotografija korisnika: potvrđeni stvarni objekt, glavna fotografija. Druge dvije dostavljene fotografije: pripadnost istom projektu nije potvrđena; ne uključivati dok se ne potvrdi.
+Prva korisnikova fotografija: potvrđeni stvarni objekt, glavna fotografija. Druge dvije fotografije: pripadnost istom projektu nije potvrđena; ne uključivati bez potvrde.
 
 ## Odobrenje
-Čeka se izričito odobrenje konačnog teksta i vizuala. Nema autorizacije za javnu objavu.
+Potrebno izričito odobrenje konačnog teksta i vizuala. Nema autorizacije za javnu objavu.
