@@ -11,8 +11,6 @@ Preljevni bazen, pažljivo odabrana keramika i pogled na Jadransko more stvaraju
 
 Za ovaj projekt AB Keramika osigurala je stručno savjetovanje te isporuku keramike i bazenskih materijala.
 
-Jer pravi odabir materijala čini razliku.
-
 AB KERAMIKA | Dubrovnik
 Keramika i materijali za bazene od 1995.
 
