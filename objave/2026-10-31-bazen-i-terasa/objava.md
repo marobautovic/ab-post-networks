@@ -1,9 +1,9 @@
 # Bazen i terasa u svijetlim tonovima
 
-Status: NA_ODOBRENJU — uloga potvrđena; čeka završno odobrenje teksta, fotografija i termina
+Status: OBJAVLJENO — Instagram i Facebook; Metricool je za obje objave potvrdio PUBLISHED.
 Datum pripreme: 31. 10. 2026.
-Zadnja dopuna: 2. 11. 2026. — korisnik potvrdio isporuku keramike i materijala za bazen.
-Planirani datum: ZA POTVRDU; objava nije zakazana
+Zadnja dopuna: 2. 11. 2026. — objavljeno putem Metricoola nakon korisnikova odobrenja; potvrđena isporuka keramike i materijala za bazen te godina osnivanja 1996.
+Planirani datum: 2. 11. 2026. u 16:49 (Europe/Zagreb).
 Cilj objave: prikaz obloga bazena, ulaznih stepenica i terase te poticanje upita za materijale.
 Kanali: Instagram i Facebook
 Format: album od 3 fotografije; prijedlog Storyja u 3 kadra.
@@ -14,7 +14,7 @@ Format: album od 3 fotografije; prijedlog Storyja u 3 kadra.
 - Uloga AB Keramike: isporuka keramike i materijala za bazen, potvrđena korisnikovom porukom 2. 11. 2026. Savjetovanje, ugradnja i isporuka obloga terase nisu potvrđeni i ne pripisuju se AB KERAMICI.
 - Materijali / dimenzije: potvrđena isporuka keramike i materijala za bazen. Na fotografijama su vidljive svijetle obloge bazena, stepenica i terase. Proizvođač, kolekcija, formati, tehničke karakteristike i detaljan popis ostalih materijala nisu potvrđeni i ne navode se.
 - Dostupnost ili cijena (ako je potvrđeno, datum provjere): ne navode se.
-- Dopuštenje za korištenje fotografija: dostavljene za pripremu; završni odabir i dopuštenje za javnu objavu potvrditi uz odobrenje objave.
+- Dopuštenje za korištenje fotografija: korisnik odobrio objavu pripremljenog albuma na Instagramu i Facebooku nakon pregleda i ispravka godine osnivanja.
 - Podaci o tvrtki: AB KERAMIKA; salon u Dubrovniku; posluje od 1996.
 
 ## Fotografije
@@ -86,15 +86,23 @@ AB KERAMIKA · salon u Dubrovniku · od 1996.
 
 - [x] Korisnik je potvrdio isporuku keramike i materijala za bazen; Instagram, Facebook i Story dopunjeni su tom informacijom. Detaljan popis proizvoda ne navodi se.
 - [ ] Ako se navode marka, kolekcija, format ili tehnička svojstva, potvrđeni su iz pouzdanog izvora.
-- [ ] Odobrene odabrane fotografije i provjerena privatnost osoba / kupaca.
-- [ ] Pregledan konačni prikaz fotografija i čitljivost Storyja.
-- [ ] Odobren završni tekst i vizual, kanali i termin.
+- [x] Odobrene odabrane fotografije 3, 4 i 5; fotografije 2 i 7 s osobama nisu uključene.
+- [x] Provjeren redoslijed 3 → 4 → 5. Sve tri datoteke na Metricoolu identične su izvornima (SHA-256 usporedba).
+- [ ] Story je ostao prijedlog; nije zakazan niti objavljen.
+- [x] Korisnik odobrio nastavak objave preko Metricoola na Instagramu i Facebooku; automatska objava zakazana u prvom sljedećem operativnom terminu.
 - [x] U ovom nacrtu nisu navedeni nepotvrđeni naziv projekta, lokacija, cijene, lager ni tehničke karakteristike.
 - [x] Fotografije odabrane prema korisnikovu redoslijedu; nacrt razlikuje fazu radova od uporabe.
 - [x] Nije korišten slogan konkurencije ni njegova bliska varijanta.
 
 ## Nakon objave
 
-Datum: nije objavljeno
-Instagram poveznica: —
-Facebook poveznica: —
+Datum: 2. 11. 2026. — zakazano za 16:49 (Europe/Zagreb); oba statusa PUBLISHED potvrđena nakon objave.
+Instagram poveznica: https://www.instagram.com/p/DfPqs2AlGZV/
+Facebook poveznica: https://facebook.com/1646429920844390/posts/1654050226749026
+
+Metricool Instagram: https://app.metricool.com/planner/calendar?blogId=7682490&openWithPostUuid=-593425921794684177
+Metricool Facebook: https://app.metricool.com/planner/calendar?blogId=7682490&openWithPostUuid=-1196332413921310598
+
+Evidencija protiv duplikata: Instagram post ID 414154523, UUID -593425921794684177; Facebook post ID 414154624, UUID -1196332413921310598. Postojeće zapise ne stvarati ponovno.
+
+Objavljeni su albumi od tri izvorne fotografije s odvojenim Instagram i Facebook opisima te alt-tekstovima. Uloga AB KERAMIKE ostaje isporuka keramike i materijala za bazen; nije navedena ugradnja ni savjetovanje.
