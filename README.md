@@ -20,4 +20,4 @@ Ovaj repozitorij ne objavljuje automatski na društvene mreže i nema povezane M
 
 ## Smjer sadržaja
 
-Izvedeni projekti; ponuda i lager; stručni savjeti; salon u Dubrovniku i iskustvo od 1995. Naglasak na konkretnom doprinosu AB Keramike. Kod izvedbe s partnerima to jasno navesti.
+Izvedeni projekti; ponuda i lager; stručni savjeti; salon u Dubrovniku i iskustvo od 1996. Naglasak na konkretnom doprinosu AB Keramike. Kod izvedbe s partnerima to jasno navesti.

@@ -6,6 +6,7 @@ Cilj objave:
 
 ## Potvrđene informacije
 
+- Godina osnivanja AB KERAMIKE: 1996.
 - Projekt / proizvod:
 - Uloga AB Keramike:
 - Materijali / dimenzije:

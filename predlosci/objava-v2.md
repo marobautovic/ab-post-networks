@@ -7,6 +7,7 @@ Autor/odobrio:
 Kategorija:
 
 ## Potvrđene činjenice
+- Godina osnivanja AB KERAMIKE: 1996.
 - 
 
 ## Za provjeru

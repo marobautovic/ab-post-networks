@@ -15,7 +15,7 @@ Format: album od 3 fotografije; prijedlog Storyja u 3 kadra.
 - Materijali / dimenzije: potvrđena isporuka keramike i materijala za bazen. Na fotografijama su vidljive svijetle obloge bazena, stepenica i terase. Proizvođač, kolekcija, formati, tehničke karakteristike i detaljan popis ostalih materijala nisu potvrđeni i ne navode se.
 - Dostupnost ili cijena (ako je potvrđeno, datum provjere): ne navode se.
 - Dopuštenje za korištenje fotografija: dostavljene za pripremu; završni odabir i dopuštenje za javnu objavu potvrditi uz odobrenje objave.
-- Podaci o tvrtki: AB KERAMIKA; salon u Dubrovniku; posluje od 1995.
+- Podaci o tvrtki: AB KERAMIKA; salon u Dubrovniku; posluje od 1996.
 
 ## Fotografije
 
@@ -58,7 +58,7 @@ Za ovaj projekt AB KERAMIKA isporučila je keramiku i materijale za bazen.
 
 Planirate bazen ili uređenje terase? Pošaljite nam nacrt ili fotografiju prostora i upit za materijale.
 
-AB KERAMIKA · Dubrovnik · od 1995.
+AB KERAMIKA · Dubrovnik · od 1996.
 
 #ABKeramika #Bazeni #Keramika #Terase #UredenjeEksterijera
 
@@ -72,7 +72,7 @@ Za ovaj projekt AB KERAMIKA isporučila je keramiku i materijale za bazen.
 
 Pripremate bazen ili uređujete terasu? Pošaljite nam nacrt ili fotografiju prostora i napišite koje materijale tražite.
 
-AB KERAMIKA · salon u Dubrovniku · od 1995.
+AB KERAMIKA · salon u Dubrovniku · od 1996.
 
 #ABKeramika #Bazeni #Terase
 
@@ -80,7 +80,7 @@ AB KERAMIKA · salon u Dubrovniku · od 1995.
 
 1. Fotografija 3 — naslov: **Bazen i terasa**; podnaslov: **Svijetli tonovi kroz cijeli prostor.**
 2. Fotografija 5 — naslov: **Tijekom radova**; podnaslov: **Isporuka keramike i materijala za bazen — AB KERAMIKA.**
-3. Fotografija 4 — naslov: **Planirate bazen ili terasu?**; poziv: **Pošaljite nam nacrt ili fotografiju prostora i upit za materijale.** Potpis: **AB KERAMIKA · Dubrovnik · od 1995.**
+3. Fotografija 4 — naslov: **Planirate bazen ili terasu?**; poziv: **Pošaljite nam nacrt ili fotografiju prostora i upit za materijale.** Potpis: **AB KERAMIKA · Dubrovnik · od 1996.**
 
 ## Provjera prije objave
 

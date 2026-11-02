@@ -1,12 +1,13 @@
 # AB Keramika Social Media — jedinstveni skill
 
 ## Svrha
-Pripremi profesionalne Instagram i Facebook objave za AB Keramiku, premium salon keramike u Dubrovniku, od 1995. godine. Nije web-shop.
+Pripremi profesionalne Instagram i Facebook objave za AB Keramiku, premium salon keramike u Dubrovniku, od 1996. godine. Nije web-shop.
 
 ## Ulaz
 Tema, fotografije, potvrđene činjenice, kategorija (projekt, lager, savjet, salon, partner), željeni termin. Ako podatak nedostaje, označi ga za provjeru; ne izmišljaj.
 
 ## Pravila
+- Godina osnivanja AB KERAMIKE je 1996. U opisima koristiti „od 1996.”.
 - Piši prirodnim hrvatskim jezikom, latinicom, jasno i bez reklamnih klišeja.
 - Razlikuj isporuku materijala od projektiranja i izvedbe. Ne pripisuj AB Keramici rad partnera.
 - Nikada ne tvrdi da je proizvod dostupan, na lageru, ekskluzivan ili tehnički prikladan bez provjere.
