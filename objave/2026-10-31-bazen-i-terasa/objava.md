@@ -1,7 +1,8 @@
 # Bazen i terasa u svijetlim tonovima
 
-Status: NA_ODOBRENJU — nacrt; čeka potvrdu uloge AB KERAMIKE i materijala
+Status: NA_ODOBRENJU — uloga potvrđena; čeka završno odobrenje teksta, fotografija i termina
 Datum pripreme: 31. 10. 2026.
+Zadnja dopuna: 2. 11. 2026. — korisnik potvrdio isporuku keramike i materijala za bazen.
 Planirani datum: ZA POTVRDU; objava nije zakazana
 Cilj objave: prikaz obloga bazena, ulaznih stepenica i terase te poticanje upita za materijale.
 Kanali: Instagram i Facebook
@@ -10,8 +11,8 @@ Format: album od 3 fotografije; prijedlog Storyja u 3 kadra.
 ## Potvrđene informacije
 
 - Projekt / proizvod: korisnik je dostavio sedam fotografija istog bazena i terase, tijekom radova i u uporabi. Naziv projekta i lokacija nisu potvrđeni i ne navode se.
-- Uloga AB Keramike: ZA POTVRDU. Razlikovati isporuku materijala, savjetovanje i ugradnju u suradnji s partnerima; nijedna od tih uloga nije pretpostavljena.
-- Materijali / dimenzije: na fotografijama su vidljive svijetle obloge bazena, stepenica i terase. Proizvođač, kolekcija, vrsta materijala, formati i tehničke karakteristike: ZA POTVRDU.
+- Uloga AB Keramike: isporuka keramike i materijala za bazen, potvrđena korisnikovom porukom 2. 11. 2026. Savjetovanje, ugradnja i isporuka obloga terase nisu potvrđeni i ne pripisuju se AB KERAMICI.
+- Materijali / dimenzije: potvrđena isporuka keramike i materijala za bazen. Na fotografijama su vidljive svijetle obloge bazena, stepenica i terase. Proizvođač, kolekcija, formati, tehničke karakteristike i detaljan popis ostalih materijala nisu potvrđeni i ne navode se.
 - Dostupnost ili cijena (ako je potvrđeno, datum provjere): ne navode se.
 - Dopuštenje za korištenje fotografija: dostavljene za pripremu; završni odabir i dopuštenje za javnu objavu potvrditi uz odobrenje objave.
 - Podaci o tvrtki: AB KERAMIKA; salon u Dubrovniku; posluje od 1995.
@@ -53,7 +54,7 @@ Bazen i terasa u svijetlim tonovima.
 
 Široke ulazne stepenice, plitki dio bazena i terasa povezani srodnim nijansama. Na posljednjoj fotografiji pogledajte obloge tijekom radova.
 
-[ZA POTVRDU: jedna rečenica o stvarnoj ulozi AB KERAMIKE i isporučenim materijalima.]
+Za ovaj projekt AB KERAMIKA isporučila je keramiku i materijale za bazen.
 
 Planirate bazen ili uređenje terase? Pošaljite nam nacrt ili fotografiju prostora i upit za materijale.
 
@@ -67,7 +68,7 @@ Bazen, stepenice i terasa u svijetlim tonovima.
 
 Svijetle obloge ponavljaju se u bazenu, na širokim ulaznim stepenicama i na terasi. Uz fotografije bazena u uporabi donosimo i kadar tijekom radova, na kojem se jasno vide raspored pločica i oblik plitkog dijela.
 
-[ZA POTVRDU: jedna rečenica o stvarnoj ulozi AB KERAMIKE i isporučenim materijalima.]
+Za ovaj projekt AB KERAMIKA isporučila je keramiku i materijale za bazen.
 
 Pripremate bazen ili uređujete terasu? Pošaljite nam nacrt ili fotografiju prostora i napišite koje materijale tražite.
 
@@ -78,12 +79,12 @@ AB KERAMIKA · salon u Dubrovniku · od 1995.
 ## Story
 
 1. Fotografija 3 — naslov: **Bazen i terasa**; podnaslov: **Svijetli tonovi kroz cijeli prostor.**
-2. Fotografija 5 — naslov: **Tijekom radova**; podnaslov: **Obloge, plitki dio i široke stepenice.**
+2. Fotografija 5 — naslov: **Tijekom radova**; podnaslov: **Isporuka keramike i materijala za bazen — AB KERAMIKA.**
 3. Fotografija 4 — naslov: **Planirate bazen ili terasu?**; poziv: **Pošaljite nam nacrt ili fotografiju prostora i upit za materijale.** Potpis: **AB KERAMIKA · Dubrovnik · od 1995.**
 
 ## Provjera prije objave
 
-- [ ] Potvrđena uloga AB KERAMIKE i konkretni isporučeni materijali; zamijenjeni svi odlomci ZA POTVRDU u opisima.
+- [x] Korisnik je potvrdio isporuku keramike i materijala za bazen; Instagram, Facebook i Story dopunjeni su tom informacijom. Detaljan popis proizvoda ne navodi se.
 - [ ] Ako se navode marka, kolekcija, format ili tehnička svojstva, potvrđeni su iz pouzdanog izvora.
 - [ ] Odobrene odabrane fotografije i provjerena privatnost osoba / kupaca.
 - [ ] Pregledan konačni prikaz fotografija i čitljivost Storyja.
